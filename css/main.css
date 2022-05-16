@@ -433,6 +433,7 @@ body {
   height: 100vh;
   background: #d09f77;
   position: fixed;
+  z-index: 999999;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
